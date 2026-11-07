@@ -70,3 +70,5 @@ IP-CIDR,2a0b:b580::/48,no-resolve
 IP-CIDR,2a0b:b581::/48,no-resolve
 IP-CIDR,2a0b:b582::/48,no-resolve
 IP-CIDR,2a0b:b583::/48,no-resolve
+DOMAIN-SUFFIX,bdimg.com
+DOMAIN-SUFFIX,baidustatic.com
